@@ -1,0 +1,5 @@
+Tarefa 3:
+
+first_publisher - publica uma contagem, do qual se inicia em 0 e é acrescentado 1 para cada iteração;
+second_publisher - é inscrito do first_publisher e publica somente os números ímpares;
+third_publisher - é inscrito do second_publisher e publica o número ímpar multiplicado por 10;
